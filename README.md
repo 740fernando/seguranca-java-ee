@@ -7,9 +7,7 @@
 - Roles reais e roles lógicos
 - Protegendo recursos
 - Tipos de autenticação
-- Confidencialidade e integridade
-- HTTPS
-- HTTPS e o Java EE
+
 
 ## Os Principais Conceitos de Segurança
 
