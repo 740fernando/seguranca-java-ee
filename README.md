@@ -11,8 +11,8 @@
 
 ## Os Principais Conceitos de Segurança
 
-<img src="01">
 
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/01r.JPG)
 
 ## Autenticação
 
@@ -29,7 +29,7 @@
 - A forma mais fácil de autenticação é feita
 via arquivos texto
 
-<img src="02">
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/02.JPG)
 
 
 - Outras formas também são suportadas
@@ -49,18 +49,18 @@ especificação
 - Os roles da aplicação são definidos no
 arquivo web.xml
 
-<img src="03">
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/03.JPG)
 
-Roles Reais x Lógicos
+## Roles Reais x Lógicos
 
-<img src="04">
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/04.JPG)
 
 ## Protegendo Recursos
 
 - Recursos são protegidos em Java EE com base em
 mapeamentos de URL e HTTP method
 
-<img src="05">
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/05.JPG)
 
 ## Tipos de Autenticação
 
@@ -70,7 +70,7 @@ usuário de alguma forma
 - Três formas de autenticação são
 suportadas por todos os containers Java EE
 
-<img src="06">
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/06.JPG)
 
 ## Autenticação BASIC
 
@@ -79,11 +79,11 @@ autenticação
 - Uma janela aberta pelo próprio browser
 solicita o usuário e a senha
 
-<img src="07">
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/07.JPG)
 
 - A configuração é feita no web.xml
 
-<img src="08">
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/08.JPG)
 
 ## Autenticação FORM
 
@@ -93,7 +93,10 @@ informações de login
 - Uma página para que haja o redirecionamento
 caso os dados digitados sejam inválidos
 
-<img src="09">
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/09.JPG)
 
 - O formulário de login deve seguir algumas
 regras
+
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/10.JPG)
+
