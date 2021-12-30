@@ -100,3 +100,29 @@ regras
 
 ![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/10.JPG)
 
+## Confidencialidade e Integridade
+
+
+- A confidencialidade previne que os dados
+sejam lidos durante o tráfego na rede
+
+- A integridade garante que os dados não
+serão alterados enquanto trafegam pela
+rede
+
+- O HTTPS dá essas garantias – Hypertext Transfer Protocol
+Secure
+
+## O HTTPS
+
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/12.JPG)
+
+## HTTPS e Java EE
+
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/13.JPG)
+
+![alt text](https://github.com/740fernando/seguranca-java-ee/blob/master/assets/14.JPG)
+
+
+
+
